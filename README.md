@@ -38,7 +38,7 @@ gradle clean test -Pwebdriver.driver=chrome -Denvironment=staging
 
 ## Historia de usuario  
 **Titulo:** Automatización registro de usuario  
-**Como:** Programado  
+**Como:** Programador  
 **Quiero:** Automatizar el registro de usuarios en la plataforma  
 **Para:** Evaluar y validar el correcto funcionamiento del registro de la plataforma  
 **Criterio de aceptación:** Correcto funcionamiento del script y automatización del registro de usuario
