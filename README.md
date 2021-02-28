@@ -15,7 +15,8 @@
 * Descargar el [ChromeDriver](https://chromedriver.chromium.org/) segun su version de Chrome
 
 ### Reemplazar ChromeDriver
-Abrimos el proyecto con Intellij IDEA, una vez abierto nos ubicamos en carpeta src, luego en la carpeta test, continuamos a la carpeta resources y finalmente en webdriver, en esta carpeta nos mostrara 3 carpetas cada una referente a un sistema operativo, segun su sistema operativo nos ubicamos dentro de dicha carpeta ubicamos el archivo **chromedriver** damos clic derecho sobre este archivo e indicamos que queremos verlo en el explorador, ubicados en esta carpeta borramos el chromedriver y proseguimos a pegar el chromedriver referente a nuestra versión del navegador de chrome.
+Abrimos el proyecto con Intellij IDEA, una vez abierto nos ubicamos en carpeta src, luego en la carpeta test, continuamos a la carpeta resources y finalmente en webdriver, en esta carpeta nos mostrara 3 carpetas cada una referente a un sistema operativo, segun su sistema operativo nos ubicamos dentro de dicha carpeta ubicamos el archivo **chromedriver** damos clic derecho sobre este archivo e indicamos que queremos verlo en el explorador, ubicados en esta carpeta borramos el chromedriver y proseguimos a pegar el chromedriver referente a nuestra versión del navegador de chrome.  
+![Estrucura de carpetas](https://i.ibb.co/y5BZWZx/2021-02-27-19h32-17.png)
 
 ## Ejecución
 Teniendo nuestro entorno listo y abierto el proyecto en Intellij IDEA proseguimos a ejecutar la siguiente línea de comando:
